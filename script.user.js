@@ -7,6 +7,8 @@
 // @match        https://kaiber.ai/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kaiber.ai
 // @grant        none
+// @updateURL 
+// @downloadURL
 // ==/UserScript==
 
 (function() {
